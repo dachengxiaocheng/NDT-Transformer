@@ -11,7 +11,7 @@ import datetime
 from sklearn.neighbors import KDTree, NearestNeighbors
 import config as cfg
 import evaluate
-import loss.pointnetvlad_loss as PNV_loss
+import loss.loss as PNV_loss
 # import models.PointNetVlad as PNV
 import models.NDTNetVlad as PNV
 import torch.nn as nn
