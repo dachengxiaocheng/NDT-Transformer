@@ -3,4 +3,6 @@ This github is a supplementary material including data, code, trained model and 
 
 The trained model can be downloaded at this link https://drive.google.com/file/d/1rJcswZsH05RZP3rMzfjWiwXXswikJgQd/view?usp=sharing.
 
-Maintainer: Cheng Zhao (Henry)
+Implementation and Maintainer: Cheng Zhao (Henry)
+
+Ref PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, CVPR 2018.
